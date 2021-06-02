@@ -16,7 +16,7 @@
       >
         <div
           class="absolute top-0 w-full h-full bg-center bg-cover"
-          style="background-image: url('/images/tpbank/tpbank-vay-tin-chap.jpg')"
+          style="background-image: url('/vay-tin-chap.io/images/tpbank-vay-tin-chap.jpg')"
         >
           <span
             id="blackOverlay"
@@ -322,7 +322,7 @@
               >
                 <img
                   alt="..."
-                  src="/images/tpbank/tpbank-denq.jpg"
+                  src="~/assets/img/tpbank-denq.jpg"
                   class="w-full align-middle rounded-t-lg"
                 />
                 <blockquote class="relative p-8 mb-4">
@@ -389,7 +389,7 @@
               <img
                 alt="..."
                 class="max-w-full rounded-lg shadow-lg"
-                src="/images/tpbank/tpbank.jpg"
+                src="~/assets/img/tpbank.jpg"
               />
             </div>
             <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
@@ -516,7 +516,7 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="/images/tpbank/dac-diem.jpg"
+                  src="~/assets/img/dac-diem.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px"
                 />
@@ -532,7 +532,7 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="/images/tpbank/dac-diem.jpg"
+                  src="~/assets/img/dac-diem.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px"
                 />
@@ -548,7 +548,7 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="/images/tpbank/dac-diem.jpg"
+                  src="~/assets/img/dac-diem.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px"
                 />
@@ -565,7 +565,7 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="/images/tpbank/dac-diem.jpg"
+                  src="~/assets/img/dac-diem.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px"
                 />

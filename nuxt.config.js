@@ -1,15 +1,16 @@
 const publicPath = 'https://longzip.github.io/vay-tin-chap.io/'
+const base = '/vay-tin-chap.io/'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
   router: {
-    base: '/vay-tin-chap.io/',
+    base,
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'tailwind-starter-kit',
+    title: 'Vay tín chấp | Vay tiêu dùng trả góp tín chấp',
     htmlAttrs: {
       lang: 'vi',
     },
@@ -19,7 +20,7 @@ export default {
       { hid: 'description', name: 'description', content: '' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: base + 'favicon.ico' },
       // {
       //   rel: 'stylesheet',
       //   ref: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css',
