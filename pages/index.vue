@@ -16,9 +16,7 @@
       >
         <div
           class="absolute top-0 w-full h-full bg-center bg-cover"
-          style="
-            background-image: url('/vay-tin-chap.io/images/tpbank-vay-tin-chap.jpg');
-          "
+          style="background-image: url('/vay-tin-chap.io/images/tpbank-vay-tin-chap.jpg');"
         >
           <span
             id="blackOverlay"
