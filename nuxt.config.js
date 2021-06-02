@@ -1,10 +1,10 @@
-const publicPath = 'https://longzip.github.io/tailwind-starter-kit.io/'
+const publicPath = 'https://longzip.github.io/vay-tin-chap.io/'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
   router: {
-    base: '/',
+    base: '/vay-tin-chap.io/',
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
