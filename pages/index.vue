@@ -107,8 +107,7 @@
                   </div>
                   <h6 class="text-xl font-semibold">Vay theo hóa đơn</h6>
                   <p class="mt-2 mb-4 text-white-100">
-                    Lãi suất ưu đãi chỉ từ 0,6%/ thángSố tiền vay được nên đến
-                    30 lần tổng thu nhập hàng tháng.
+                    Số tiền vay được nên đến 30 lần tổng thu nhập hàng tháng.
                   </p>
                 </div>
               </div>
@@ -149,7 +148,7 @@
                   <h6 class="text-xl font-semibold">Vay theo SIM trả sau</h6>
                   <p class="mt-2 mb-4 text-white-100">
                     Điều kiện vay: đã từng mua/vay trả góp tại các TCTD khác.hệ
-                    số vay: Tối đa lên tới 70 triệu.
+                    số vay: Tối đa lên tới 100 triệu.
                   </p>
                 </div>
               </div>
@@ -189,8 +188,8 @@
                   </div>
                   <h6 class="text-xl font-semibold">Vay theo Lương</h6>
                   <p class="mt-2 mb-4 text-white-100">
-                    Lãi suất chỉ 0,6%/tháng.Khoản vay lên đến 1 tỷ đồng. Hồ sơ
-                    thủ tục nhanh gọn, giải ngân trong vòng 24h
+                    Khoản vay từ 6 đến 100 triệu đồng. Hồ sơ thủ tục nhanh gọn,
+                    giải ngân trong vòng 24h
                   </p>
                 </div>
               </div>
@@ -232,8 +231,8 @@
                     Vay theo Bảo hiểm nhân thọ
                   </h6>
                   <p class="mt-2 mb-4 text-white-100">
-                    Lãi suất chỉ 0,6%/tháng.Khoản vay lên đến 1 tỷ đồng. Hồ sơ
-                    thủ tục nhanh gọn, giải ngân trong vòng 24h
+                    Khoản vay từ 10 đến 100 triệu đồng. Hồ sơ thủ tục nhanh gọn,
+                    giải ngân trong vòng 24h.
                   </p>
                 </div>
               </div>
@@ -357,7 +356,6 @@
                   flex flex-col
                   min-w-0
                   break-words
-                  bg-white
                   w-full
                   mb-6
                   shadow-lg

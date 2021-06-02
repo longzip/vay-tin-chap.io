@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"https:\u002F\u002Flongzip.github.io\u002Fvay-tin-chap.io\u002Fstatic\u002F1622622419",layout:"default",error:null,serverRendered:true,routePath:a,config:{_app:{basePath:"\u002Fvay-tin-chap.io\u002F",assetsPath:a,cdnURL:"https:\u002F\u002Flongzip.github.io\u002Fvay-tin-chap.io\u002F"}}}}("\u002F"));
