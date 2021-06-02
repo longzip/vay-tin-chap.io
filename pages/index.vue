@@ -458,38 +458,7 @@
                 <h3 class="text-3xl font-semibold">
                   Thủ tục chỉ cần kèm theo:
                 </h3>
-                <!-- <p class="mt-4 text-lg leading-relaxed text-white-100">
-                  The extension comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go.
-                </p> -->
                 <ul class="list-none mt-6">
-                  <!-- <li class="py-2">
-                    <div class="flex items-center">
-                      <div>
-                        <span
-                          class="
-                            text-xs
-                            font-semibold
-                            inline-block
-                            py-1
-                            px-2
-                            uppercase
-                            rounded-full
-                            text-primary
-                            bg-tpbank
-                            mr-3
-                          "
-                          ><i class="fas fa-fingerprint"></i
-                        ></span>
-                      </div>
-                      <div>
-                        <h4 class="text-white-100">
-                          Thủ tục chỉ cần kèm theo
-                        </h4>
-                      </div>
-                    </div>
-                  </li> -->
                   <li class="py-2">
                     <div class="flex items-center">
                       <div>
