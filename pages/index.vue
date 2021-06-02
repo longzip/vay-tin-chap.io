@@ -16,7 +16,9 @@
       >
         <div
           class="absolute top-0 w-full h-full bg-center bg-cover"
-          style="background-image: url('/vay-tin-chap.io/images/tpbank-vay-tin-chap.jpg')"
+          style="
+            background-image: url('/vay-tin-chap.io/images/tpbank-vay-tin-chap.jpg');
+          "
         >
           <span
             id="blackOverlay"
@@ -70,7 +72,7 @@
       <section class="pb-20 bg-gray-300 -mt-24">
         <div class="container mx-auto px-4">
           <div class="flex flex-wrap">
-            <div class="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
+            <div class="lg:pt-12 pt-6 w-full md:w-3/12 px-4 text-center">
               <div
                 class="
                   relative
@@ -111,7 +113,7 @@
                 </div>
               </div>
             </div>
-            <div class="w-full md:w-4/12 px-4 text-center">
+            <div class="w-full md:w-3/12 px-4 text-center">
               <div
                 class="
                   relative
@@ -152,7 +154,7 @@
                 </div>
               </div>
             </div>
-            <div class="pt-6 w-full md:w-4/12 px-4 text-center">
+            <div class="pt-6 w-full md:w-3/12 px-4 text-center">
               <div
                 class="
                   relative
@@ -186,6 +188,49 @@
                     <i class="fas fa-fingerprint"></i>
                   </div>
                   <h6 class="text-xl font-semibold">Vay theo Lương</h6>
+                  <p class="mt-2 mb-4 text-white-100">
+                    Lãi suất chỉ 0,6%/tháng.Khoản vay lên đến 1 tỷ đồng. Hồ sơ
+                    thủ tục nhanh gọn, giải ngân trong vòng 24h
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="w-full md:w-3/12 px-4 text-center">
+              <div
+                class="
+                  relative
+                  flex flex-col
+                  min-w-0
+                  break-words
+                  bg-white
+                  w-full
+                  mb-8
+                  shadow-lg
+                  rounded-lg
+                "
+              >
+                <div class="px-4 py-5 flex-auto">
+                  <div
+                    class="
+                      text-white
+                      p-3
+                      text-center
+                      inline-flex
+                      items-center
+                      justify-center
+                      w-12
+                      h-12
+                      mb-5
+                      shadow-lg
+                      rounded-full
+                      bg-tpbank
+                    "
+                  >
+                    <i class="fas fa-file-contract"></i>
+                  </div>
+                  <h6 class="text-xl font-semibold">
+                    Vay theo Bảo hiểm nhân thọ
+                  </h6>
                   <p class="mt-2 mb-4 text-white-100">
                     Lãi suất chỉ 0,6%/tháng.Khoản vay lên đến 1 tỷ đồng. Hồ sơ
                     thủ tục nhanh gọn, giải ngân trong vòng 24h
