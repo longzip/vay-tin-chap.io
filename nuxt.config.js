@@ -1,5 +1,5 @@
-const publicPath = 'https://longzip.github.io/vay-tin-chap.io/'
-const base = '/vay-tin-chap.io/'
+const publicPath = 'https://hotrovaytieudung.ga'
+const base = '/'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
