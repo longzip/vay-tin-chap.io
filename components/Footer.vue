@@ -34,7 +34,8 @@
         <div class="w-full lg:w-6/12 px-4">
           <h4 class="text-3xl font-semibold">HỖ TRỢ VAY VỐN TIÊU DÙNG</h4>
           <h5 class="text-lg mt-0 mb-2 text-gray-700">
-            Tìm chúng tôi trên mạng xã hội, chúng tôi sẽ trả lời bạn 1-2 ngày làm việc.
+            Tìm chúng tôi trên mạng xã hội, chúng tôi sẽ trả lời bạn 1-2 ngày
+            làm việc.
           </h5>
           <div class="mt-6">
             <button
@@ -241,6 +242,19 @@
         </div>
       </div>
     </div>
+    <script id="mcjs">
+      !(function (c, h, i, m, p) {
+        ;(m = c.createElement(h)),
+          (p = c.getElementsByTagName(h)[0]),
+          (m.async = 1),
+          (m.src = i),
+          p.parentNode.insertBefore(m, p)
+      })(
+        document,
+        'script',
+        'https://chimpstatic.com/mcjs-connected/js/users/51b89f0bb923255c56045a3ca/1349ca9b1b580c6939649bcad.js'
+      )
+    </script>
   </footer>
 </template>
 <script>

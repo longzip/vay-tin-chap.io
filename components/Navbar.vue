@@ -107,7 +107,8 @@
         </ul>
         <ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
           <li class="flex items-center">
-            <button
+            <a
+              href="https://hotrovaytieudung.ngoclong.ga/wp-login.php?loginSocial=google"
               class="
                 bg-white
                 text-primary
@@ -127,11 +128,10 @@
                 ml-3
                 mb-3
               "
-              type="button"
               style="transition: all 0.15s ease 0s"
             >
               <i class="fas fa-arrow-alt-circle-down"></i> Đăng nhập
-            </button>
+            </a>
           </li>
         </ul>
       </div>
