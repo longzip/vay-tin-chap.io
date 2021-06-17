@@ -20,7 +20,7 @@
       target="_blank"
       novalidate
     >
-      <div id="flex-auto p-5 lg:p-10">
+      <div id="mc_embed_signup_scroll" class="flex-auto p-4 lg:p-10">
         <h4 class="text-2xl font-semibold">Muốn vay tiền ngân hàng?</h4>
         <p class="leading-relaxed mt-1 mb-4 text-white-100">
           Hoàn thiện mẫu và chúng tôi sẽ liên hệ bạn muộn nhất sau 24h.
@@ -161,7 +161,7 @@
           <input
             id="mc-embedded-subscribe"
             type="submit"
-            value="Subscribe"
+            value="Đăng ký"
             name="subscribe"
             class="
               bg-tpbank
